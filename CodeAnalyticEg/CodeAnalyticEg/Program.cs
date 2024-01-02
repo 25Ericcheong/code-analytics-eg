@@ -2,6 +2,6 @@
 
 using CodeAnalyticEg;
 
-NormalizeUppercase normalizeUppercase = new NormalizeUppercase();
+var normalizeUppercase = new NormalizeUppercase();
 normalizeUppercase.PrintDescription();
 normalizeUppercase.PrintExample();
