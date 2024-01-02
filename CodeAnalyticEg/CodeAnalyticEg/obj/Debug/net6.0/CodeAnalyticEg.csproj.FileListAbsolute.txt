@@ -1,0 +1,15 @@
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\bin\Debug\net6.0\CodeAnalyticEg.exe
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\bin\Debug\net6.0\CodeAnalyticEg.deps.json
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\bin\Debug\net6.0\CodeAnalyticEg.runtimeconfig.json
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\bin\Debug\net6.0\CodeAnalyticEg.dll
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\bin\Debug\net6.0\ref\CodeAnalyticEg.dll
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\bin\Debug\net6.0\CodeAnalyticEg.pdb
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.csproj.AssemblyReference.cache
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.AssemblyInfoInputs.cache
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.AssemblyInfo.cs
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.csproj.CoreCompileInputs.cache
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.dll
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\ref\CodeAnalyticEg.dll
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.pdb
+C:\Users\ericc\Documents\GitHub\code-analytics-eg\CodeAnalyticEg\CodeAnalyticEg\obj\Debug\net6.0\CodeAnalyticEg.genruntimeconfig.cache
